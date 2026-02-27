@@ -12,6 +12,7 @@ Topic = Literal[
     "Capital gains",
     "Inheritance tax",
     "Loss reliefs",
+    "Filing rules",
     "Corporation tax",
     "Groups",
     "VAT",
