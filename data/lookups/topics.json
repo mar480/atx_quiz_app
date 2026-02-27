@@ -20,6 +20,11 @@
       "label": "Inheritance tax",
       "color": "#7C3AED"
     },
+        {
+      "key": "filing_rules",
+      "label": "Filing rules",
+      "color": "#d63aed"
+    },
     {
       "key": "loss_reliefs",
       "label": "Loss reliefs",

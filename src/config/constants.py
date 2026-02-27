@@ -36,6 +36,7 @@ ALL_TOPIC_KEYS = [
     "income_tax_nic",
     "capital_gains",
     "inheritance_tax",
+    "filing rules",
     "loss_reliefs",
     "corporation_tax",
     "groups",
