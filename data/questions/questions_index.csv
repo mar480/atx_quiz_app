@@ -208,10 +208,10 @@ LIST_CGT_REQ_SMALLPARTDISPOSAL_001,Capital gains,requirements,Small part disposa
 LIST_CGT_REQ_SMALLPARTDISPOSAL_002,Capital gains,requirements,Small part disposals,cloze_list,3,core,Y,small_part_disposals,written,1,122,168,199,199
 LIST_CGT_REQ_SMALLPARTDISPOSAL_003,Capital gains,requirements,Small part disposals,cloze_list,3,core,Y,small_part_disposals,written,1,122,168,199,199
 LIST_CGT_REQ_SMALLPARTDISPOSAL_004,Capital gains,requirements,Small part disposals,cloze_list,3,core,Y,small_part_disposals,written,1,122,168,199,199
-LIST_CGT_REQ_BADR_001,Capital gains,requirements,BADR and goodwill,cloze_list,4,core,Y,BADR_and_goodwill,written,2,122,168,199,199
-LIST_CGT_REQ_BADR_002,Capital gains,requirements,BADR and EMI,cloze_list,5,core,Y,BADR_and_EMI,written,3,122,168,199,199
-LIST_CGT_REQ_BADR_003,Capital gains,requirements,BADR associated disposals,cloze_list,6,core,Y,BADR_associated_disposals,written,4,122,168,199,199
-LIST_CGT_FILE_BADR_001,Capital gains,filing_requirements,BADR claim,cloze_list,7,core,Y,BADR_claim,written,5,122,168,199,199
+LIST_CGT_REQ_BADR_001,Capital gains,requirements,BADR and goodwill,cloze_list,3,core,Y,BADR_and_goodwill,written,2,122,168,199,199
+LIST_CGT_REQ_BADR_002,Capital gains,requirements,BADR and EMI,cloze_list,3,core,Y,BADR_and_EMI,written,3,122,168,199,199
+LIST_CGT_REQ_BADR_003,Capital gains,requirements,BADR associated disposals,cloze_list,3,core,Y,BADR_associated_disposals,written,4,122,168,199,199
+LIST_CGT_FILE_BADR_001,Capital gains,filing_requirements,BADR claim,cloze_list,3,core,Y,BADR_claim,written,5,122,168,199,199
 LIST_CGT_REQ_INCORP_001,Capital gains,requirements,Incorporation relief,cloze_list,3,core,Y,incorporation;conditions,assistant_generated,1,122,168,199,199
 LIST_CGT_REQ_INCORP_002,Capital gains,requirements,Incorporation relief,cloze_list,3,core,Y,incorporation;conditions,assistant_generated,1,122,168,199,199
 LIST_CGT_REQ_INCORP_003,Capital gains,requirements,Incorporation relief,cloze_list,3,core,Y,incorporation;BADR,assistant_generated,1,122,168,199,199
